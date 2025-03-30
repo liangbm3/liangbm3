@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liangbm3
+- 👋 Hello, my name is Liang Beiming. I am a young and imaginative individual currently pursuing an undergraduate degree at Sun Yat-sen University.
 
 
 <!---
