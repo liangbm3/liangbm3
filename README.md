@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm liangbm3</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Blog-liangbm3.site-blue?style=flat-square" alt="Blog" />
-  <img src="https://img.shields.io/github/followers/liangbm3?label=GitHub&style=social" alt="GitHub followers" />
-</p>
+## 👋 Hi there!
+
+Welcome to my GitHub profile! I'm glad you're here.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an undergraduate student majoring in Communication Engineering at Sun Yat-sen University. I am proficient in C++, backend development, and audio/video development. I also have experience in C, semantic HTML, and CSS. I enjoy exploring new technologies, building efficient systems, and sharing my thoughts through my personal blog.
+I am an undergraduate student majoring in Communication Engineering at Sun Yat-sen University. I am proficient in C++, C, backend development, and audio/video development. I also have experience with semantic HTML and CSS. I enjoy exploring new technologies, building efficient systems, and sharing my thoughts through my personal blog.
 
 - 🌐 Personal Blog: [liangbm3.site](https://liangbm3.site)
 - 📫 How to reach me: 
